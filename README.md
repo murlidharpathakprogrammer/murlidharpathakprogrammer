@@ -1,7 +1,5 @@
-# Hi there, I'm [murlidharpathak][youtube] 👋 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC37WqvsMQczfNhj2b_Rwm5Q?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
-
-[![Website](https://img.shields.io/website?label=murlidhar.host20.uk&style=for-the-badge&url=https%3A%2F%2Fmurlidhar.host20.uk)](https://murlidhar.host20.uk)
+# Hi there, I'm Murlidhar Pathak👋 
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC37WqvsMQczfNhj2b_Rwm5Q?logo=youtube&logoColor=red&style=for-the-badge) [![Website](https://img.shields.io/website?label=murlidhar.host20.uk&style=for-the-badge&url=https%3A%2F%2Fmurlidhar.host20.uk)](https://murlidhar.host20.uk)
 
 <a target="_blank" href="https://www.instagram.com/mdpathakofficial/">
   <img align="left" alt="Murlidhar's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
