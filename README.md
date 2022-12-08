@@ -15,7 +15,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=murlidharpathakprogrammer.murlidharpathakprogrammer)
 
 <br />
-[![Murlidhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=murlidharpathakprogrammer&count_private=true)]
+![Murlidhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=murlidharpathakprogrammer&count_private=true)
 
 ### Hi there 👋
 <!--
