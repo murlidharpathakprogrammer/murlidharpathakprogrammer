@@ -1,5 +1,21 @@
-[![Murlidhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=murlidharpathakprogrammer&count_private=true)](https://github.com/murlidharpathakprogrammer/github-readme-stats)
-[![Murlidhar's Activity stats](https://activity-graph.herokuapp.com/graph?username={murlidharpathakprogrammer}&theme=minimal)]
+
+<a href="https://www.instagram.com/abhisheknaiidu/">
+  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://discord.gg/XTW52Kt">
+  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://twitter.com/abhisheknaiidu">
+  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="www.linkedin.com/in/murlidhar-pathak/">
+  <img align="left" alt="Murlidhar's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=murlidharpathakprogrammer.murlidharpathakprogrammer)
+
+<br />
+[![Murlidhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=murlidharpathakprogrammer&count_private=true)]
 
 ### Hi there 👋
 <!--
