@@ -1,6 +1,3 @@
-
-![Murlidhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=murlidharpathakprogrammer&show_icons=true)
-
 <a href="https://www.instagram.com/abhisheknaiidu/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -13,6 +10,9 @@
 <a href="www.linkedin.com/in/murlidhar-pathak/">
   <img align="left" alt="Murlidhar's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
+
+![Murlidhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=murlidharpathakprogrammer&show_icons=true)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=murlidharpathakprogrammer.murlidharpathakprogrammer)
 
