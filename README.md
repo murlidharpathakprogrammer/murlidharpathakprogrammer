@@ -10,11 +10,9 @@
 <a href="www.linkedin.com/in/murlidhar-pathak/">
   <img align="left" alt="Murlidhar's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
+![](https://visitor-badge.glitch.me/badge?page_id=murlidharpathakprogrammer.murlidharpathakprogrammer)
 
 ![Murlidhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=murlidharpathakprogrammer&show_icons=true)
-
-![](https://visitor-badge.glitch.me/badge?page_id=murlidharpathakprogrammer.murlidharpathakprogrammer)
 
 ### Hi there 👋
 <!--
