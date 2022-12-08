@@ -1,12 +1,6 @@
 # Hi there, I'm Murlidhar Pathak👋 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCcxK955vXGhTckYc-fc6_3w?logo=youtube&logoColor=red&style=for-the-badge) [![Website](https://img.shields.io/website?label=murlidhar.host20.uk&style=for-the-badge&url=https%3A%2F%2Fmurlidhar.host20.uk)](https://murlidhar.host20.uk)
 
-<a target="_blank" href="https://www.instagram.com/mdpathakofficial/">
-  <img align="left" alt="Murlidhar's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a target="_blank" href="https://www.linkedin.com/in/murlidharpathak/">
-  <img align="left" alt="Murlidhar's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=murlidharpathakprogrammer.murlidharpathakprogrammer)
 
@@ -22,9 +16,13 @@
 - 👯 I’m looking to collaborate on Business Analytics
 - 💬 Ask me about Web, Flutter, Firebase, Mobile App, Data Science, Machine Learning (ML) and Artificial intelligence (AI).
 - ⚡ Fun fact: Getting into Entrepreneurship
-#### 📫 How to reach me:
- &nbsp;&nbsp;&nbsp;![https://www.linkedin.com/in/murlidhar-pathak-4b70aa146/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://www.instagram.com/mdpathakofficial/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
--
+### How to reach me:
+&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/murlidharpathak/" rel="nofollow">
+  <img align="left" alt="Murlidhar's LinkedIN" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
+</a>
+&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/mdpathakofficial/" rel="nofollow">
+  <img align="left" alt="Murlidhar's Instagram" width="25px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" style="max-width: 100%;">
+</a>
 
 ### Languages and Tools:
 <p style="text-align:center;">
@@ -44,7 +42,4 @@
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg" style="padding-right:10px;" />
-
-  
-<!--    -->
 </p>
