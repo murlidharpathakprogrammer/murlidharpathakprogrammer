@@ -1,7 +1,7 @@
-<a href="https://www.instagram.com/mdpathakofficial/">
-  <img align="left" alt="Murlidhar's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+<a target="_blank" href="https://www.instagram.com/mdpathakofficial/">
+  <img align="left" alt="Murlidhar's Instagram" width="22px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="www.linkedin.com/in/murlidhar-pathak/">
+<a target="_blank" href="www.linkedin.com/in/murlidhar-pathak/">
   <img align="left" alt="Murlidhar's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
@@ -20,5 +20,5 @@
 - 💬 Ask me about Web, Flutter, Firebase, Mobile App, Data Science, Machine Learning (ML) and Artificial intelligence (AI).
 - ⚡ Fun fact: Getting into Entrepreneurship
 #### 📫 How to reach me:
- &nbsp;&nbsp;&nbsp;![https://www.linkedin.com/in/murlidhar-pathak-4b70aa146/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://www.instagram.com/mdpathakofficial/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=whiteg)
+ &nbsp;&nbsp;&nbsp;![https://www.linkedin.com/in/murlidhar-pathak-4b70aa146/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://www.instagram.com/mdpathakofficial/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 - 
