@@ -4,7 +4,7 @@
 <a target="_blank" href="https://www.instagram.com/mdpathakofficial/">
   <img align="left" alt="Murlidhar's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a target="_blank" href="www.linkedin.com/in/murlidharpathak/">
+<a target="_blank" href="https://www.linkedin.com/in/murlidharpathak/">
   <img align="left" alt="Murlidhar's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
