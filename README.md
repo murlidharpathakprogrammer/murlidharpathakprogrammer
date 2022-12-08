@@ -1,4 +1,6 @@
 
+![Murlidhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=murlidharpathakprogrammer&show_icons=true)
+
 <a href="https://www.instagram.com/abhisheknaiidu/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -14,9 +16,6 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=murlidharpathakprogrammer.murlidharpathakprogrammer)
 
-<br />
-![Murlidhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=murlidharpathakprogrammer&count_private=true)
-![Murlidhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=murlidharpathakprogrammer&show_icons=true)
 ### Hi there 👋
 <!--
 **murlidharpathakprogrammer/murlidharpathakprogrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
