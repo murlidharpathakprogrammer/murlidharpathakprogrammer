@@ -18,7 +18,7 @@
 - ⚡ Fun fact: Getting into Entrepreneurship
 ### How to reach me:
 &nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/murlidharpathak/" rel="nofollow">
-  <img align="left" alt="Murlidhar's LinkedIN" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
+  <img align="left" alt="Murlidhar's LinkedIN" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" style="max-width: 100%;">
 </a>
 &nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/impathakji/" rel="nofollow">
   <img align="left" alt="Murlidhar's Instagram" width="25px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" style="max-width: 100%;">
