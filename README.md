@@ -1,5 +1,5 @@
 # Hi there, I'm Murlidhar Pathak👋 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCcxK955vXGhTckYc-fc6_3w?logo=youtube&logoColor=red&style=for-the-badge) [![Website](https://img.shields.io/website?label=murlidhar.host20.uk&style=for-the-badge&url=https%3A%2F%2Fmurlidhar.host20.uk)](https://murlidhar.host20.uk)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCcxK955vXGhTckYc-fc6_3w?logo=youtube&logoColor=red&style=for-the-badge) [![Website](https://img.shields.io/website?label=bytebixtechnologies.com&style=for-the-badge&url=https%3A%2F%2bytebixtechnologies.com)](https://bytebixtechnologies.com/)
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=murlidharpathakprogrammer.murlidharpathakprogrammer)
